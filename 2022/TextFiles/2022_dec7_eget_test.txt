@@ -1,0 +1,37 @@
+$ cd /
+$ ls
+dir a
+dir b
+dir c
+7000 fil1
+$ cd a
+$ ls
+dir d
+dir e
+$ cd d
+$ ls
+8000 fil2
+$ cd ..
+$ cd e
+$ ls
+8000 fil3
+9000 fil4
+$ cd ..
+$ cd ..
+$ cd b
+$ ls
+dir f
+$ cd f
+$ ls
+dir g
+2000 fil5
+$ cd g
+$ ls
+1000 fil6
+$ cd ..
+$ cd ..
+$ cd ..
+$ cd c
+$ ls
+9000 fil7
+5000 fil8
